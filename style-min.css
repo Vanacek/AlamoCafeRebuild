@@ -1,0 +1,33 @@
+html {
+  margin: 30px;
+  height: 100%;
+  width: 100%;
+  background: url(/Assets/3-ingredient-paleo-naan.jpg) center center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+.home-logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 200px;
+  width: 200px; }
+
+#main-logo {
+  height: 239px;
+  width: 428px; }
+
+h1 {
+  display: block;
+  text-align: center; }
