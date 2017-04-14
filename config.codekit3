@@ -7,37 +7,21 @@
 		"uuidString": "BEE6E05C-DFFF-49E7-91E9-980161FF34AF"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
-	"\/Assets\/3-ingredient-paleo-naan.jpg": {
-		"ft": 16384,
-		"iS": 79289,
-		"oA": 0,
-		"oAP": "\/Assets\/3-ingredient-paleo-naan.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/Assets\/710503.gif": {
-		"ft": 4194304,
-		"iS": 23500,
-		"oA": 0,
-		"oAP": "\/Assets\/710503.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/Assets\/alamoCafeMockup.sketch": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Assets\/alamoCafeMockup.sketch",
 		"oF": 0
 		},
-	"\/Assets\/o.jpg": {
+	"\/Assets\/maintortilla.jpg": {
 		"ft": 16384,
-		"iS": 30737,
+		"iS": 79289,
 		"oA": 0,
-		"oAP": "\/Assets\/o.jpg",
+		"oAP": "\/Assets\/maintortilla.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -47,6 +31,17 @@
 		"oA": 0,
 		"oAP": "\/Assets\/overhead1.jpg",
 		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/Assets\/sign.jpg": {
+		"ft": 16384,
+		"iS": 30737,
+		"oA": 0,
+		"oAP": "\/Assets\/sign.jpg",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -56,14 +51,42 @@
 		"oA": 0,
 		"oAP": "\/Assets\/Soft-Paleo-Tortillas.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/Assets\/vectorlogo.gif": {
+		"ft": 4194304,
+		"iS": 23500,
+		"oA": 0,
+		"oAP": "\/Assets\/vectorlogo.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
+		},
+	"\/script.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/script-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/style-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style-min-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/style.css": {
 		"aP": 1,
@@ -1044,6 +1067,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -1868,14 +1895,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -1938,7 +1957,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {
