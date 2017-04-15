@@ -63,10 +63,34 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/contact.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/contact.html",
+		"oF": 0
+		},
+	"\/hours&locations.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/hours&locations.html",
+		"oF": 0
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/menu.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/menu.html",
+		"oF": 0
+		},
+	"\/privateevents.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/privateevents.html",
 		"oF": 0
 		},
 	"\/script.js": {
@@ -77,6 +101,12 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/store.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/store.html",
+		"oF": 0
 		},
 	"\/style-min.css": {
 		"aP": 1,

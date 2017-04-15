@@ -19,6 +19,7 @@ html, body{
 }
 
 .fa-bars{
+	cursor: hand;
 	color: white;
 	text-decoration: none;
 	float: left;
@@ -28,17 +29,39 @@ html, body{
 }
 
 nav{
-	z-index: 3;
-	margin-top:30px;
-	margin-left: 30px;
+	padding:0px;
+	z-index: 4;
+	width:150px;
+	height: auto;
+	margin-top:20%;
+	margin-left: 0;
 	position: absolute;
-	background-color: green;
 	float:left;
 }
 
-li{
+ul{
+	margin:7;
+	list-style: none;
+	padding: 0;
+	display: block;
+	border-radius: 5px;
 	text-align: center;
-	color: black;
+}
+
+li{
+	font-family: nunito;
+	border-radius: 5px;
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+	color: #E0203D;
+	background-color:#002f55;
+	padding-top:10px;
+	padding-bottom: 15px;
+	margin-top: 7px;
+}
+
+a{
+	text-decoration: none;
 }
 
 #mainlogo{ 
@@ -69,6 +92,8 @@ li{
 
 
 .main-content{
+	position: relative;
+	z-index: -2;
 	-webkit-overflow-scrolling: touch;
 	overflow-y: scroll;
 	display: block;
@@ -83,9 +108,12 @@ li{
 	border-color:#E0203D;
 }
 
-.lorem{
+.aboutus{
+	text-align: center;
+	font-size: 20px;
+	font-family: nunito;
 	margin: 20px;
-	color: #002f55;
+	color:#002f55;
 }
 
 
