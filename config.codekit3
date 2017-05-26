@@ -93,15 +93,6 @@
 		"oAP": "\/privateevents.html",
 		"oF": 0
 		},
-	"\/script.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/script-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/store.html": {
 		"ft": 8192,
 		"oA": 2,
